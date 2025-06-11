@@ -1,0 +1,9 @@
+v2016 22/10 2016:
+- Added the IsEquivalent and IsChanged functions.
+- Changed to library versioning that follows the library update year.
+
+v2012 11/9 2013:
+- Changed to versioning that follows the base LabVIEW version.
+
+v1.0 6/8 2013:
+- Initial public release.

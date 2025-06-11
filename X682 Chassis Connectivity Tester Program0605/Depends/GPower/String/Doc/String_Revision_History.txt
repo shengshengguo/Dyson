@@ -1,0 +1,25 @@
+v2016.1 30/6 2016:
+- Backsaved library from LabVIEW 2014 to 2012.
+
+v2016 15/6 2016:
+- Added conversion between numeric and string for 1D-arrays of real numbers. In this process the 'FloatToString' and 'StringToFloat' functions are deprecated, and new ones named 'NumericToString' and 'StringToNumeric' were created.
+- Added an optional 'Offset' input and an 'Offset Past Number' output to selected 'StringToNumeric' functions.
+
+v2015 23/9 2015:
+- Added the 'FloatToString' and 'StringToFloat' functions.
+
+v2012.1 18/11 2013:
+- Added the 'SearchString' function.
+- Changed the 'Append ellipsis?' and 'Desired font' inputs on the 'LimitStringWidthInPixels' function from optional to recommended.
+- Bug fixed: Implemented the 'String modified?' output of the 'LimitStringWidthInPixels' function correctly.
+- Minor icon changes to the 'SplitStringMultiple' and 'LimitStringWidthInPixels' functions.
+- Now allows install on Linux and Macintosh in addition to Windows.
+
+v2012 11/9 2013:
+- Changed to versioning that follows the base LabVIEW version.
+
+v1.1 8/7 2013:
+- Added the 'SplitStringMultiple' function.
+
+v1.0 24/1 2013:
+- Initial public release.

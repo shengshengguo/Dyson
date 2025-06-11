@@ -1,0 +1,17 @@
+DI,Dev,Port,line,DI_Name,DO,Dev,Port,line,DO_Name
+,0,0,0,Start_L,,0,0,0,psu+   J3_1
+,0,0,1,Start_R,,0,0,1,psu-   J3_5
+,0,0,2,Reset,,0,0,2,UART1_3V3  J63_1
+,0,0,3,E-Stop,,0,0,3,UART1_TX   J63_5
+,0,0,4,Presence Detection Sensor,,0,0,4,UART1_RX   J63_6
+,0,0,5,NA,,0,0,5,UART1_GND  J63_10
+,0,0,6,NA,,0,0,6,UART2_3V3  J4_1
+,0,0,7,NA,,0,0,7,UART2_TX   J4_4
+,0,0,8,NA,,0,0,8,UART2_RX   J4_3
+,0,0,9,NA,,0,0,9,UART2_GND  J4_6
+,0,0,10,NA,,0,0,10,PSU S+ J3_1
+,0,0,11,NA,,0,0,11,PSU S- J3_5
+,0,0,12,NA,,0,0,12,NA
+,0,0,13,NA,,0,0,13,NA
+,0,0,14,NA,,0,0,14,NA
+,0,0,15,NA,,0,0,15,NA

@@ -1,0 +1,20 @@
+Action,Unit,Check Type,682 Status,682 LL,682 Typ,682 UL
+5.3.1_1 Set DC Power Supply,,NC,Enable,,,
+5.3.1_2 Measure current from DC Power Supply,mA,GELE,Enable,50,,550
+5.3.2_1 Send Get VP and SC Version,,NC,Enable,,,
+5.3.2_2 Get HW version,,NC,Enable,,,
+5.3.3_1 Starting LED Test,,NC,Enable,,Pass,
+5.3.3_2 Operator to manually judge each LED,,NC,Enable,,,
+5.3.3_3 Read PMIC status,,NC,Enable,,,
+5.3.3_4 Read IMU Accel X_Y_Z,,NC,Enable,,,
+5.3.3_5 Read IMU Gyro X_Y_Z,,NC,Enable,,,
+5.3.5_1 Connect golden brush motor to UUT,,NC,Enable,,,
+5.3.5_8 Starting Brush Motor in intensity 1,,Equal,Enable,,1,
+5.3.5_9 Measure current consumption from PSU; Intensity 1,,GELE,Enable,0.45,,1.2
+5.3.5_10 Measure current consumption from ADC; Intensity 1,,NC,Enable,,,
+5.3.5_11 Stopping Brush Motor,,Equal,Enable,,0,
+5.3.6_1 Connect pump motor to UUT,,NC,Enable,,,
+5.3.6_2 Starting Pump Motor,,Equal,Enable,,1,
+5.3.6_3 Measure current consumption from PSU,A,GELE,Enable,0.1,,0.4
+5.3.6_4 Measure current consumption from ADC,,NC,Enable,,,
+5.3.6_5 Stopping Pump Motor,,Equal,Enable,,0,

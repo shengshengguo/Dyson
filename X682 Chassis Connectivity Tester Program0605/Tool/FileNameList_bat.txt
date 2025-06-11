@@ -1,0 +1,18 @@
+Starting  Test Mode/682_eol_cli_02_005_1.exe -f test -p 1 -x uart -c 
+Getting Software  Version/682_eol_cli_02_005_1.exe -f version -t 0 -x uart -c 
+Stopping  Test Mode/682_eol_cli_02_005_1.exe -f test -p 0 -x uart -c 
+Get Release Version/682_eol_cli_02_005_1.exe -f version -t 1 -x uart -c 
+Starting LED Test/682_eol_cli_02_005_1.exe -f led -p 1 -x uart -c 
+Starting  Pump Motor/682_eol_cli_02_005_1.exe -f pump -p 1 -x uart -c 
+Stopping  Pump Motor/682_eol_cli_02_005_1.exe -f pump -p 0 -x uart -c 
+Starting Brush Motor 1/682_eol_cli_02_005_1.exe -f brush -p 1 -x uart -c 
+Starting Brush Motor 2/682_eol_cli_02_005_1.exe -f brush -p 2 -x uart -c 
+Starting Brush Motor 3/682_eol_cli_02_005_1.exe -f brush -p 3 -x uart -c 
+Stopping  Brush Motor/682_eol_cli_02_005_1.exe -f brush -p 0 -x uart -c 
+Brush_ADC/682_eol_cli_02_005_1.exe -f sc_adc -p 0 -x uart -c 
+Pump_ADC/682_eol_cli_02_005_1.exe -f sc_adc -p 1 -x uart -c 
+Starting Self Test/682_eol_cli_02_005_1.exe -f led -p 2 -x uart -c 
+Software Reset/682_eol_cli_v02_005_1.exe -f reset -x -x uart -c 
+Get HW version/682_eol_cli_02_005.exe -f version -t 3 -x uart -c 
+Read PMIC status/682_eol_cli_02_005.exe -f battery -p 3 -x uart -c 
+SC IMU Data Streaming/682_eol_cli_02_005.exe -f sc_imu -t 0 -iscimu -x uart -c 

@@ -1,0 +1,3 @@
+This VIP file does not contain any code by itself, but is merely an empty container with each toolset as a dependency.
+
+See the license file of each dependency for licensing details.

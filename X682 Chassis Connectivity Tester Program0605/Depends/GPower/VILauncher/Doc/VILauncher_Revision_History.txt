@@ -1,0 +1,24 @@
+v2012.2 11/12 2013
+------------------
+- Updated to support Timing toolset v2012.2.
+
+v2012.1 16/11 2013
+------------------
+- Now allows install on Linux and Macintosh in addition to Windows.
+
+v2012 11/9 2013
+---------------
+- Changed to versioning that follows the base LabVIEW version.
+
+v2.1 20/8 2013
+--------------
+- Updated to support Error & Warning toolset v3.0.
+
+v2.0 3/1 2013
+-------------
+- Changed toolset name from DynamicDispatch to VILauncher to remove confusion with the dynamic dispatching feature of built-in LV-classes.
+- Converted toolset into an lvlib.
+
+v1.0 6/3 2012
+-------------
+- Initial public release.
