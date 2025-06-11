@@ -1,0 +1,12 @@
+v2014 3/5 2014:
+- Added the Sum and Product functions.
+
+v2012.1 26/12 2013:
+- Added the AbsoluteValue function.
+- Now allows install on Linux and Macintosh in addition to Windows.
+
+v2012 11/9 2013:
+- Changed to versioning that follows the base LabVIEW version.
+
+v1.0 9/8 2013:
+- Initial public release.

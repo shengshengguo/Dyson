@@ -1,0 +1,14 @@
+Start Test Mode/682_eol_cli_v02_005_1.exe -f test -p 1 -x nfc -c 
+Getting Software Version/682_eol_cli_v02_005_1.exe -f version -t 0 -x nfc -c 
+Start camera test mode/682_eol_cli_v02_005_1.exe -f camera -p 1 -x nfc -c 
+Get one image/682_eol_cli_v02_005_1.exe -f camera -p 2 -i "C:\x682_Camera_Program\X682 Camera Calibration Tester Program\Tool\Calibration_Image\1.raw" -x nfc -c 
+Stop camera test mode/682_eol_cli_v02_005_1.exe -f camera -p0 -x nfc -c 
+Stop Test Mode/682_eol_cli_v02_005_1.exe -f test -p 0 -x nfc -c 
+Get image uniformity andFlash LED brightness/682_eol_cli_v02_005_1.exe -f vision_quality -i  Uniformity_Result -x nfc -c 
+Get image reflection/682_eol_cli_v02_005_1.exe -f vision_quality -t 1 -i Reflection_Result -x nfc -c 
+Enable flash LED/682_eol_cli_v02_005_1.exe -f flash_led -p 1 -x nfc -c 
+Disable flash LED/682_eol_cli_v02_005_1.exe -f flash_led -p 0 -x nfc -c 
+Tune Flash LED brightness/682_eol_cli_v02_005_1.exe -f flash_led_brightness -p 0 6  -x nfc -c 
+Start Camera calibration/682_eol_cli_v02_005_1.exe -f camera_calibration -i "C:\x682_Camera_Program\X682 Camera Calibration Tester Program\Tool\20250531_143906-080v000.raw" -x nfc -c 
+Software Reset/682_eol_cli_v02_005_1.exe -f reset -x nfc -c 
+Verify OBC Setting/682_eol_cli_v02_005_1.exe -f camera -p 3 -x nfc -c 

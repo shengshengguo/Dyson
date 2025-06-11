@@ -1,0 +1,104 @@
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 193.1436
+Deviation          : 104.33091669797597
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Internal Reflection]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Uniformity]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 3.8523529411764708
+Result             : PASS
+
+[Uniformity]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 3.405137254901961
+Result             : PASS
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 209.7326
+Deviation          : 79.76955871283229
+Adjusted brightness: 4.0%
+Mean uniformity    : 213.9082
+Deviation          : 77.95444164869632
+Result             : FAIL

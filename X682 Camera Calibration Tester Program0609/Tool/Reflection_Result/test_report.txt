@@ -1,0 +1,206 @@
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 4.441921568627451
+Result             : PASS
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 83.79254901960785
+Result             : FAIL
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 4.566039215686275
+Result             : PASS
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 4.623019607843137
+Result             : PASS
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 3.459333333333333
+Result             : PASS
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 5.835490196078432
+Result             : FAIL
+
+[Internal Reflection]
+Internal reflection: 3.2294901960784315
+Result             : PASS
+
+[Internal Reflection]
+Internal reflection: 3.6485098039215687
+Result             : PASS
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 11.257843137254902
+Result             : FAIL
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 11.19321568627451
+Result             : FAIL
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 11.612117647058824
+Result             : FAIL
+
+[Internal Reflection]
+Internal reflection: 4.771960784313725
+Result             : PASS
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 3.511686274509804
+Result             : PASS
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 4.912862745098039
+Result             : PASS
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 0.0
+Result             : PASS
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 4.736470588235294
+Result             : PASS
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 4.718196078431372
+Result             : PASS
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 3.4109019607843134
+Result             : PASS
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+
+[Internal Reflection]
+Internal reflection: 2.9886274509803923
+Result             : PASS

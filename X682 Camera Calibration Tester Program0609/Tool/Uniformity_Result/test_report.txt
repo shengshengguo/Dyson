@@ -1,0 +1,410 @@
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 209.7721
+Deviation          : 79.83847043618759
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 210.0359
+Deviation          : 79.49728304281851
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 209.5895
+Deviation          : 80.05396673338554
+Adjusted brightness: 4.0%
+Mean uniformity    : 213.8874
+Deviation          : 78.03311169779147
+Result             : FAIL
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 210.2753
+Deviation          : 79.30596515969023
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 210.3887
+Deviation          : 79.17241446558265
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 210.3446
+Deviation          : 79.13763359388503
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 210.4334
+Deviation          : 79.07791957582091
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 210.5761
+Deviation          : 78.97611163377191
+Adjusted brightness: 4.0%
+Mean uniformity    : 214.6653
+Deviation          : 77.18879112869952
+Result             : FAIL
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 210.5773
+Deviation          : 78.95528623664156
+Adjusted brightness: 4.0%
+Mean uniformity    : 214.644
+Deviation          : 77.19867527360816
+Result             : FAIL
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 210.6743
+Deviation          : 78.90725581028656
+Adjusted brightness: 4.0%
+Mean uniformity    : 214.7611
+Deviation          : 77.10000536180267
+Result             : FAIL
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 210.7924
+Deviation          : 78.83994357075605
+Adjusted brightness: 4.0%
+Mean uniformity    : 214.9473
+Deviation          : 76.97329746548473
+Result             : FAIL
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 209.2484
+Deviation          : 79.43651488729851
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 209.6629
+Deviation          : 79.50584924136086
+Adjusted brightness: 4.0%
+Mean uniformity    : 213.9908
+Deviation          : 77.56308732483512
+Result             : FAIL
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 210.302
+Deviation          : 79.14147077228222
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 210.3796
+Deviation          : 79.07224736808736
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 3.1796
+Deviation          : 0.38385393055171396
+Adjusted brightness: 4.0%
+Mean uniformity    : 3.1796
+Deviation          : 0.38385393055171396
+Result             : FAIL
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 209.4826
+Deviation          : 79.65699025973804
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 209.6792
+Deviation          : 79.55799700444953
+Adjusted brightness: 4.0%
+Mean uniformity    : 213.9721
+Deviation          : 77.6616682900258
+Result             : FAIL
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 209.6131
+Deviation          : 79.73159228555517
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 209.6237
+Deviation          : 79.70014616241303
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 209.6811
+Deviation          : 79.6253703463287
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 211.696
+Deviation          : 75.92774186027134
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 211.3244
+Deviation          : 76.31155983623975
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 211.4449
+Deviation          : 75.96940939608521
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 212.1622
+Deviation          : 75.48465467338377
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 212.0898
+Deviation          : 75.65515406077763
+Adjusted brightness: 4.0%
+Mean uniformity    : 216.4428
+Deviation          : 73.06459558609765
+Result             : FAIL
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 211.944
+Deviation          : 75.80824007982245
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 211.8408
+Deviation          : 75.81321557195686
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 211.9231
+Deviation          : 75.68408542348914
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 211.8104
+Deviation          : 75.78104150669874
+Adjusted brightness: 4.0%
+Mean uniformity    : 216.3127
+Deviation          : 73.07280012911781
+Result             : FAIL
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 211.3266
+Deviation          : 75.90122747650396
+Adjusted brightness: 4.0%
+Mean uniformity    : 215.8123
+Deviation          : 73.29281184884367
+Result             : FAIL
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 138.6342
+Deviation          : 115.80249561369565
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 139.0372
+Deviation          : 115.65165116054331
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 139.1442
+Deviation          : 115.6529826954757
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 140.7108
+Deviation          : 115.04775427343203
+
+[Uniformity]
+
+[Uniformity]
+Initial brightness : 3.5%
+Mean uniformity    : 140.6568
+Deviation          : 115.03314397928972
+
+[Uniformity]

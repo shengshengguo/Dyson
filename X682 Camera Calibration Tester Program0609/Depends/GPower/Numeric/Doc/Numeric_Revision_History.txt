@@ -1,0 +1,25 @@
+v2016.2 18/12 2016:
+- Added the RandomBytes function.
+- Minor icon changes.
+
+v2016.1 23/10 2016:
+- Removed the 'Build' folder from the distribution.
+- Deprecated the DataChanged function. Please use the IsChanged function from the GPower Comparison v2016.0.0.4 (and newer) library instead.
+
+v2016 5/9 2016:
+- Added the FreeCounterGlobal function.
+
+v2015 17/1 2015:
+- Added 91 mathematical floating point constants.
+
+v2014.2 24/11 2014:
+- Added the Average function.
+
+v2014.1 16/5 2014:
+- Added the 8 integer data types to Round and Truncate (as you can round and truncate to tens, hundreds etc.).
+- Added 12 integer max/min constants.
+- Performance improvement in IntegerAndFractionalPart.
+- Bugfix: Overflow when 'Decimal places' in the Round and Truncate functions was set to -128. 
+
+v2014 7/4 2014:
+- Initial public release.
