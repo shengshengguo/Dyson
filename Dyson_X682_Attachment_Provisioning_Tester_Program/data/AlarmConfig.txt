@@ -1,0 +1,20 @@
+2001;E-Stop;
+2002;Safety light grid;
+2003;UUT Sealing Cylinder HomePoint;
+2004;UUT Sealing Cylinder WorkPoint;
+2005;Orifice fixed Cylinder L HomePoint;
+2006;Orifice fixed Cylinder L WorkPoint;
+2007;Orifice fixed Cylinder R HomePoint;
+2008;Orifice fixed Cylinder R WorkPoint;
+2009;UUT Cylinder HomePoint;
+2010;UUT Cylinder WorkPoint;
+2011;Carrier fixed Cylinder L HomePoint;
+2012;Carrier fixed Cylinder L WorkPoint;
+2013;Carrier fixed Cylinder R HomePoint;
+2014;Carrier fixed Cylinder R WorkPoint;
+2015;Probe Cylinder HomePoint;
+2016;Probe Cylinder WorkPoint;
+2017;Motor Error;
+2018;Test Error;
+
+

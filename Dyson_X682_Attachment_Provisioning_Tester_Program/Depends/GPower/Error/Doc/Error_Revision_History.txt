@@ -1,0 +1,74 @@
+v2014 2/12 2014
+- ToString now embeds timestamp if present as well.
+- Bugfix: GetSource and SetTimestamp would not handle timestamps within an empty source string correctly.
+- Big performance improvement to the IsError function.
+- Minor icon updates.
+- Minor VI Description clarifications.
+
+v2012.3 16/2 2014
+- Added new function ToString.
+
+v2012.2 16/12 2013
+- Fixed a bug where ClearError could seemingly break dataflow due to inlining.
+
+v2012.1 16/11 2013
+- Now allows install on Linux and Macintosh in addition to Windows.
+
+v2012 8/9 2013
+- Changed to versioning that follows the base LabVIEW version.
+
+v3.0 18/7 2013
+- Added new function ErrorsEqual.
+- Added new function FilterRecurring.
+- Added new function FilterRepeating.
+- Added new function GetTimestamp.
+- Added new function SetTimestamp.
+- ErrorType can now report three new types of errors: 'Appended errors', 'Appended warnings', and 'Appended mixed'.
+- The default setting of the optional 'Only append if new?' input on AppendErrors has been changed from False to True.
+- AppendErrors might now change the order of the appended errors since it'll aim to have at least one error on top of any warnings in the appended error collection. This is to eliminate the risk of getting an appended error wire value wrongfully overwritten by a built-in LabVIEW function.
+- ClearWarning, GetExplanation, IsWarning, SetError, SetWarning, and ToWarning now supports appended errors.
+- AppendErrors is now able to append appended errors.
+- SetDescription is now also able to set descriptions on warnings in addition to on errors.
+- GetSource now strips any time info from source string.
+- Major performance optimizations (up to 200x for certain functions).
+- Icons throughout the toolset have been updated, in some instances to make it easier to grab the VIs on the BD.
+- IsError and IsWarning functions have new connector panes due to new icons.
+- DefineCustomCode, GetCode, GetDescription, GetExplanation, GetSource, and UndefineCustomCode have new connector panes due to 'Error out' being removed from these functions as they do not modify the error wire.
+- The ErrorInOut control is no longer embedded in an Error & Warning subpalette, but is available directly from the GPower controls palette.
+
+v2.0 19/11 2012
+- Added new function IsWarning.
+- GetStatus function renamed to IsError.
+- Added support for appended errors in the FilterCodes functions.
+- Added 'Code filtered?' output to the FilterCodes functions.
+- Added 'Append timestamp?' input to the SetError and SetWarning functions.
+- Added 'Label' input to the SetError, SetWarning, and SetDescription functions.
+- Added 'Only append if new?' input to the AppendErrors functions.
+- Added a controls palette from which you can grab both 'Error in' and 'Error out' controls at the same time.
+- Changed recommended/required setting on some 'Error in' inputs.
+- Changed several VIs to run as subroutine to allow some of these functions to be used in subroutine callers.
+- Moved this toolset into an lvlib. This breaks function paths backwards compatibility.
+- 'Label' input on the DefineCustomCode funtion changed position on the connector pane.
+- Minor updates to some icons.
+- Fixed a minor bug were the default label was not set on custom errors.
+- Fixed a minor bug were a label could be set with an empty description string on custom errors.
+- Toolset renamed from 'Error' to 'Error & Warning'.
+
+v1.2 9/1 2012
+- Changed namespace of toolset from 'Error - ' to 'Error_' to eliminate spaces in VI names.
+- ConvertToWarning function renamed to ToWarning.
+- Added global dynamic error definitions with the new DefineCustomCode and UndefineCustomCode functions.
+- Added appending errors and warnings (as opposed to merging) with the new AppendErrors and SplitAppended functions.
+- Added GetDescription and SetDescription functions.
+- Updated the SetError and SetWarning functions to always set call chain as source.
+- Deleted the GetCodeAndSource function as this was basically just one of many combinations where none of the others are implemented.
+- Replaced the Source input with a Description input on the SetError and SetWarning functions.
+- In general changed this toolset's understanding of the source string of an error cluster from a generic string to the proper Source and Description fields within that string. This is to support appending to and replacing built-in error descriptions. The documentation is updated to explain this in detail.
+
+v1.1 15/10 2011
+- Added new function GetStatus.
+- Added descriptions to all controls and indicators.
+- Added access to user guide from detailed help in all VIs.
+
+v1.0 4/8 2011
+- Initial public release.
